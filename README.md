@@ -2,6 +2,7 @@
 
 ## 🔭 현재
 - 하이브리드 앱 ‘하루하루’(React Native) 개발 중
+  - v1.0.0 구글스토어 mvp 배포 성공(2025.05.31)
 - ‘Color Sense’(Next.js) SasS 프로젝트 진행 중
 
 ## 🛠 Tech Stack
